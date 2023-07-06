@@ -2,7 +2,7 @@
 * Colar o codigo Abaixo no terminal
 
 - yum install -y nano wget git
-- git clone https://github.com/contatodct/MagnusBilling-SIPTI.git
+- git clone https://github.com/emanuelbernardes/MagnusBilling-SIPTI.git
 - mv MagnusBilling-SIPTI/install.sh /root/install.sh
 - mv MagnusBilling-SIPTI mbilling
 - chmod +x install.sh
@@ -14,7 +14,7 @@
 - apt-get update
 - apt-get upgrade -y
 - apt-get install -y nano wget git
-- git clone https://github.com/contatodct/MagnusBilling-SIPTI.git
+- git clone https://github.com/emanuelbernardes/MagnusBilling-SIPTI.git
 - mv MagnusBilling-SIPTI/install.sh /root/install.sh
 - mv MagnusBilling-SIPTI mbilling
 - chmod +x install.sh
